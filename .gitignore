@@ -1,0 +1,18 @@
+## Folders ##
+/bin
+
+## Gem files ##
+Gemfile.lock
+
+## Environmetn Variables ##
+.env
+
+## rspect helper ##
+.rspec
+spec/spec_helper.rb
+
+## rbenv ##
+.ruby-version
+
+## Other ##
+.DS_Store
